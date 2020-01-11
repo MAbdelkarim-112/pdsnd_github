@@ -1,3 +1,5 @@
+changed city from chicago to paris in bikeshare.py file
+
 ### Date created
 Include the date you created this project and README file.
 
